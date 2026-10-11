@@ -71,11 +71,11 @@ eas build -p android --profile preview
 
 ## Repository
 
-- **GitHub Repository:** TO FILL LATER
-- **GitHub Release:** TO FILL LATER
-- **APK Download:** TO FILL LATER
-- **Final commit hash:** TO FILL LATER
-- **Demo Video:** TO FILL LATER
+- GitHub Repository: https://github.com/halime-tech/MOB_A2_2528258
+- GitHub Release: https://github.com/halime-tech/MOB_A2_2528258/releases/tag/v1.0.0
+- APK Download: https://github.com/halime-tech/MOB_A2_2528258/releases/download/v1.0.0/MOB_A2_2528258.apk
+- Demo Video: https://github.com/halime-tech/MOB_A2_2528258/releases/download/v1.0.0/MOB_A2_2528258_DEMO.mp4
+- Final commit hash: 35238da
 
 ## Declaration
 
